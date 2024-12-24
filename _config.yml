@@ -146,23 +146,21 @@ pwa:
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
-
 plugins:
   - jekyll-paginate-v2
 
 jekyll-paginate-v2:
   # Turn off autopages if you don't want automatic pages for categories/tags
   autopages:
-    enabled: false
-
+    enabled: true
   # Global pagination settings
   pagination:
     enabled: true # Enable pagination globally
     per_page: 5 # Number of posts per page
-    title: ":title" # Title format for paginated pages
-    permalink: "/page/:num" # URL structure for additional pages
-    sort_field: "date"
-    sort_reverse: true
+    # title: ":title" # Title format for paginated pages
+    permalink: "/blog/page/:num" # URL structure for additional pages
+    # sort_field: "date"
+    # sort_reverse: true
 # The base URL of your site
 baseurl: ""
 
