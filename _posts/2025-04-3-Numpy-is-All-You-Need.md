@@ -1,6 +1,6 @@
 ---
 title: Numpy is All You Need
-description: I implemented a neural network from scratch in Numpy. 
+description: I implemented a neural network from scratch in Numpy. Code is at [https://github.com/MattyB709/numpyNN](https://github.com/MattyB709/numpyNN)
 date: 2025-04-03 11:55:20 -0600
 categories: [General]
 ---
