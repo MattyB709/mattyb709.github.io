@@ -3,8 +3,6 @@ title: Numpy is All You Need
 description: I implemented a neural network from scratch in Numpy. 
 date: 2025-04-03 11:55:20 -0600
 categories: [General]
-image:
-    path: "/assets/img/chat_img.png"
 ---
 
 TLDR: I spent the last 2 days implementing and training a neural network from scratch in Numpy. I used 
