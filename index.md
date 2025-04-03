@@ -10,4 +10,4 @@ layout: aboutMe
     style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
-My name is Matthew Builes, I am an undergraduate computer science and math student at UT Austin interested in going into AI capabilites or mechanistic interpretability research. I am a second generation immigrant from Colombia, and I like to visit often to keep up with my family and practice my Spanish. In my free time, I love to read widely, go to the gym, and build things (my favorite things I've built being my PC and small boat).
+My name is Matthew Builes, I am an undergraduate computer science and math student at UT Austin interested in getting into ML research. I am a second generation immigrant from Colombia, and I like to visit often to keep up with my family and practice my Spanish. In my free time, I love to read old books, go to the gym, and build things. 
